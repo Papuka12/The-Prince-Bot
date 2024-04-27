@@ -1,0 +1,335 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.scode {
+    background: rgb(158,127,203);
+background: linear-gradient(180deg, rgba(158,127,203,1) 0%, rgba(113,78,219,1) 38%, rgba(100,73,191,1) 49%, rgba(74,65,255,1) 80%, rgba(2,0,36,1) 150%, rgba(123,85,250,1) 150%, rgba(24,12,96,1) 200%, rgba(0,5,255,1) 1020%);
+font-size: 18px;
+min-width: 350px;
+min-height: 470px;
+border-radius: 25px;
+
+
+
+
+
+
+font-family: "Hanken Grotesk", sans-serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+
+}
+.points {
+    position: absolute;
+    top: 110px;
+left: 100px;
+min-width: 150px;
+min-height: 150px;
+border-radius: 50%;
+
+
+    background: rgb(100,88,134);
+background: linear-gradient(180deg, rgba(100,88,134,1) 0%, rgba(100,73,191,1) 0%, rgba(143,86,224,1) 0%, rgba(61,44,129,1) 82%, rgba(2,0,36,1) 150%, rgba(123,85,250,1) 150%, rgba(24,12,96,1) 200%, rgba(0,5,255,1) 1020%);
+}
+.point1 {
+    position: absolute;
+    color: white;
+    font-size: 60px;
+    font-weight: 800;
+    top: 20px;
+    left: 40px;
+}
+.point2 {
+    color: rgba(255, 255, 255, 0.623);
+    position: absolute;
+    left: 50px;
+    top: 100px;
+}
+.great {
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    top: 290px;
+    left: 134px;
+}
+.highscore {
+    position: absolute;
+    min-width: 250px;
+    left: 50px;
+    top: 340px;
+}
+.high {
+    color: rgba(255, 255, 255, 0.808);
+}
+.result {
+    position: absolute;
+    font-size: 18px;
+    left: 120px;
+    top: 30px;
+    color: rgba(231, 231, 231, 0.795);
+}
+.react {
+    font-size: 18px;
+    position: absolute;
+    left: 380px;
+    top: 10px;
+}
+.react02 {
+    box-shadow: 5px 5px 50px;
+    background-color: beige;
+}
+.reaction {
+    position: absolute;
+    top: 100px;
+    background-color: black;
+    left: 10px;
+}
+.memory {
+    position: absolute;
+    top: 160px;
+    left: 10px;
+}
+.verbal {
+    position: absolute;
+    left: 10px;
+    top: 225px;
+}
+.visual {
+    position: absolute;
+    top: 290px;
+    left: 10px;
+    
+}
+.summary {
+    font-size: 22px;
+    color: rgba(150, 150, 150, 0.781);
+    position: absolute;
+    top: 15px;
+}
+.haha {
+    position: absolute;
+    left: 310px;
+    background-color: rgb(255, 255, 255);
+    min-height: 470px;
+    min-width: 350px;
+    z-index: -5;
+    border-radius: 20px;
+
+    box-shadow: 5px 5px 60px rgb(230, 230, 230);
+}
+.reactiontext {
+    color: hsl(0, 100%, 67%);
+    position: absolute;
+    left: 30px;
+}
+.reactions {
+   background-color: hsla(0, 100%, 67%, 0.062);
+   min-height: 55px;
+   min-width: 265px;
+   position: absolute;
+   left: 375px;
+   top: 92px;
+   border-radius: 5px;
+}
+.memorys {
+    background-color: hsla(39, 100%, 56%, 0.068);
+    min-height: 55px;
+    min-width: 265px;
+    position: absolute;
+    left: 375px;
+    top: 155px;
+    border-radius: 5px;
+}
+.verbals {
+    background-color: hsla(166, 100%, 37%, 0.075);
+    min-height: 55px;
+    min-width: 265px;
+    position: absolute;
+    left: 375px;
+    top: 218px;
+    border-radius: 5px;
+}
+.visuals {
+    background-color: hsla(234, 85%, 45%, 0.082);
+    min-height: 55px;
+    min-width: 265px;
+    position: absolute;
+    left: 375px;
+    top: 283px;
+    border-radius: 5px;
+}
+.memorytext {
+    color: hsl(39, 100%, 56%);
+    position: absolute;
+    left: 30px;
+}
+.verbaltext{
+    color: hsl(166, 100%, 37%);
+    position: absolute;
+    left: 30px;
+}
+.visualtext{
+    color: hsl(234, 85%, 45%);
+    position: absolute;
+    left: 30px;
+   
+}
+.points2 {
+    color:hsl(224, 30%, 27%);
+    position: absolute;
+    top: 2px;
+    left: 200px;
+}
+.memorys2 {
+    color:hsl(224, 30%, 27%);
+    position: absolute;
+    top: 2px;
+    left: 200px;
+    
+}
+.verbals2 {
+    color:hsl(224, 30%, 27%);
+    position: absolute;
+    top: 2px;
+    left: 200px;
+}
+.visuals2 {
+    color:hsl(224, 30%, 27%);
+    position: absolute;
+    top: 2px;
+    left: 200px;
+}
+.points3 {
+    color:hsl(224, 30%, 27%);
+    position: absolute;
+    left: 188px;
+}
+.memorys3 {
+    color:hsl(224, 30%, 27%);
+    position: absolute;
+    
+    left: 188px;
+}
+.verbals3 {
+    color:hsl(224, 30%, 27%);
+    position: absolute;
+    left: 188px;
+}
+.visuals3 {
+    color:hsl(224, 30%, 27%);
+    position: absolute;
+    left: 188px;
+}
+.points1 {
+    left: 160px;
+    top: 1px;
+    position: absolute;
+}
+.memorys1 {
+    left: 160px;
+    top: 1px;
+    position: absolute;
+}
+.verbals1 {
+    left: 160px;
+    top: 1px;
+    position: absolute;
+}
+.visuals1 {
+    left: 160px;
+    top: 1px;
+    position: absolute;
+}
+.img1 {
+    position: absolute;
+}
+.img2 {
+    position: absolute;
+}
+.img3 {
+    position: absolute;
+}
+.img4 {
+    position: absolute;
+}
+.body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: var(--fs-s);
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-weight: 500;
+}
+.divs {
+    position: absolute;
+    left: 620px;
+    top: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.allpoints{
+    box-shadow: 5px 5px 10px;
+}
+.button {
+    position: absolute;
+    top: 390px;
+    left: 10px;
+    min-height: 45px;
+   min-width: 240px;
+    border-radius: 35px;
+    background-color: hsl(224, 30%, 27%);
+}
+.button:hover {
+    cursor: pointer;
+
+    background: rgb(158,127,203);
+    background: linear-gradient(180deg, rgba(158,127,203,1) 0%, rgba(113,78,219,1) 38%, rgba(100,73,191,1) 49%, rgba(74,65,255,1) 80%, rgba(2,0,36,1) 150%, rgba(123,85,250,1) 150%, rgba(24,12,96,1) 200%, rgba(0,5,255,1) 1020%);
+    
+}
+.btn {
+    color: white;
+    position: absolute;
+    top: 11px;
+    left: 80px;
+    font-size: 20px;
+}
+@media screen and (max-width:749px) {
+    
+.scode{
+    position: absolute;
+    left: -40px;
+}
+.react {
+    position: absolute;
+    top: 230px;
+    left: -0px;
+}
+.reactions {
+    visibility: hidden;
+}
+.memorys {
+    visibility: hidden;
+}
+.verbals {
+    visibility: hidden;
+}
+.haha {
+    visibility: hidden;
+}
+.visuals{
+    visibility: hidden;
+}
+}
